@@ -18,7 +18,6 @@ I'm **Hemant Sharma**, a B.Tech Computer Science student at **Medicaps Universit
 I enjoy solving real-world problems through code and expressing ideas through **graphic design**.
 
 ---
-
 ### 🚀 Tech Stack & Tools
 
 <p >
