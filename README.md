@@ -70,7 +70,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
   &nbsp;&nbsp;
   <!-- Canva -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" />
   &nbsp;&nbsp;
  
   <!-- IntelliJ IDEA -->
