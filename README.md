@@ -20,17 +20,32 @@ I enjoy solving real-world problems through code and expressing ideas through **
 
 ---
 
-### 🚀 Tech Stack & Tools :-
+### 🛠 Tools I Use
 
-<p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60 "  />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="60" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />&nbsp;&nbsp;
+<p align="center">
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
+  &nbsp;&nbsp;
+  <!-- Canva -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="Canva" width="40" />
+  &nbsp;&nbsp;
+  <!-- Filmora (No official SVG, using image) -->
+  <img src="https://seeklogo.com/images/F/filmora-logo-856B7E3248-seeklogo.com.png" alt="Filmora" width="40" />
+  &nbsp;&nbsp;
+  <!-- IntelliJ IDEA -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" />
+  &nbsp;&nbsp;
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  &nbsp;&nbsp;
+  <!-- MySQL Workbench -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" />
+  &nbsp;&nbsp;
+  <!-- Tableau -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_Logo.png" alt="Tableau" width="40" />
+  &nbsp;&nbsp;
+  <!-- RStudio -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png" alt="RStudio" width="40" />
 </p>
 
 ---
