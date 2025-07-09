@@ -54,11 +54,23 @@ I enjoy solving real-world problems through code and expressing ideas through **
 
 ### 🧠 Work & Experience
 
-- 🎨 **Graphic Head** – ATM & ACM Student Chapters  
+- 🎨 **Graphic Head** –  ACM Student Chapter Techno Clubs  
 - 💼 **Campus Ambassador** – Unstop 2025  
-- 📊 **Summer Analytics 2024** – IIT Guwahati  
-- 🎥 **Content Creator** – YouTube (📌 *Tech Thinks*) & Reels  
-- 👨‍💻 **Volunteer** – MoonHack, AWS Events, Blockchain Cryptogen  
+- 🧾 **Virtual Experience** – Completed Data Analytics & Visualization tasks at:  
+  • **Deloitte** – Data-driven consulting analysis  
+  • **Tata Group** – Business data visualization tasks
+  
+- 🛠 **Tools Used**:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_Logo.png" alt="Tableau" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" />
+</p>
+
+- 👨‍💻 **Volunteer** – MoonHack, AWS Events, BAD Talks  
 - 🥇 **Top 10 Winner** – Career Catalyst Drill (Unstop)
 
 ---
