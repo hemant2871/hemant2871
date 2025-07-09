@@ -84,7 +84,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
 ---
 ### 🤝 Let’s Connect
 
-<p align="center">
+<p >
   <!-- GitHub -->
   <a href="https://github.com/hemant2871" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="background-color:white; padding:5px; border-radius:10px;" />
