@@ -13,17 +13,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me :-
 
 I'm **Hemant Sharma**, a B.Tech Computer Science student at **Medicaps University**, with a creative mind, logical thinking, and a passion for blending **design and development**.  
 I enjoy solving real-world problems through code and expressing ideas through **graphic design**.
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Stack & Tools :-
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" />
+<p >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60 style="margin-right: 20px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />
