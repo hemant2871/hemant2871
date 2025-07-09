@@ -11,7 +11,6 @@
   </a>
 </p>
 
----
 
 ### 👨‍💻 About Me :-
 
@@ -38,7 +37,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
 
 
 
----
+
 
 ### 🔥 GitHub Stats
 
@@ -49,7 +48,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2871&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
 </p>
----
+
 
 ### 🧠 Work & Experience
 
