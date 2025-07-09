@@ -49,6 +49,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2871&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
 </p>
 
+---
 
 ### 🧠 Work & Experience
 
@@ -61,6 +62,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
 - 👨‍💻 **Volunteer** – MoonHack, AWS Events, BAD Talks  
 - 🥇 **Top 10 Winner** – Career Catalyst Drill (Unstop)
 
+---
 
 ### 🛠 Tools I Use
 
