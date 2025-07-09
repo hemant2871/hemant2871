@@ -58,19 +58,31 @@ I enjoy solving real-world problems through code and expressing ideas through **
 - 🧾 **Virtual Experience** – Completed Data Analytics & Visualization tasks at:  
   • **Deloitte** – Data-driven consulting analysis  
   • **Tata Group** – Business data visualization tasks
-  
-- 🛠 **Tools Used**:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tableau_Logo.png" alt="Tableau" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Sheets" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" />
-</p>
 
 - 👨‍💻 **Volunteer** – MoonHack, AWS Events, BAD Talks  
 - 🥇 **Top 10 Winner** – Career Catalyst Drill (Unstop)
+
+- 
+### 🛠 Tools I Use
+
+<p align="center">
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
+  &nbsp;&nbsp;
+  <!-- Canva -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="60" />
+  &nbsp;&nbsp;
+ 
+  <!-- IntelliJ IDEA -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" />
+  &nbsp;&nbsp;
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  &nbsp;&nbsp;
+  <!-- MySQL Workbench -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40" />
+  &nbsp;&nbsp;
+  
 
 ---
 
