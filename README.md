@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hemant Sharma
 <h3 >Developer | Graphic Designer | Tech Enthusiast </h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/hemant2871" target="_blank">
     <img src="https://img.shields.io/github/followers/hemant2871?label=GitHub&style=social" />
   </a>
