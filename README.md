@@ -1,71 +1,69 @@
-<h1 align="center">Hi 👋, I'm Hemant Sharma</h1>
-<h3 align="center">A Curious Developer | Graphic Designer | Tech Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi there 👋, I'm Hemant Sharma</h1>
+<h3 align="center">Developer | Graphic Designer | Tech Enthusiast | Content Creator</h3>
 
 <p align="center">
   <a href="https://github.com/hemant2871" target="_blank">
-    <img src="https://img.shields.io/github/followers/hemant2871?label=GitHub&style=social" alt="GitHub Hemant" />
+    <img src="https://img.shields.io/github/followers/hemant2871?label=GitHub&style=social" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hemant-sharma-2871/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hemant%20Sharma-blue?logo=linkedin&style=flat-square" alt="LinkedIn Hemant" />
+  <a href="http://www.linkedin.com/in/hemant-sharma-3135b4290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemant%20Sharma-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
 ---
 
-🎯 **About Me**
+### 👨‍💻 About Me
 
-I'm Hemant Sharma, a passionate second-year B.Tech Computer Science student at **Medicaps University, Indore**, hailing from the beautiful town of **Ramganjmandi (Kota District), Rajasthan**. I’m on an exciting journey exploring the world of **software development**, **data analysis**, and **creative design** — aiming to merge logic with aesthetics to build impactful tech solutions.
+I'm **Hemant Sharma**, a B.Tech Computer Science student at **Medicaps University**, with a creative mind, logical thinking, and a passion for blending **design and development**.  
+I enjoy solving real-world problems through code and expressing ideas through **graphic design**.
 
-My diverse experiences across **graphic design, frontend web development, data analytics, and event management** make me a well-rounded tech enthusiast who thrives on creativity, teamwork, and continuous learning.
-
----
-
-🧠 **What I’m Learning & Exploring**
-
-- 💻 Programming Languages: C, Java (with focus on Data Structures & Algorithms)
-- 📊 Data Analytics: Excel, Tableau, Python (Basics), and Analytics Projects (IIT Guwahati Summer Analytics Program 2024)
-- 🌐 Web Development: HTML, CSS, GitHub Pages, Hosting with Vercel
-- 🎨 Design Tools: Figma, Canva – Designing posters, certificates, event graphics
-- ☁️ Cloud & Cybersecurity: Basics of AWS, Unstop Dell Data Analytics Tasks, Cisco Cybersecurity Course
-- 🧠 Soft Skills: Public speaking, team management, debate participation
+- 🎯 Tech Skills: `C`, `Java`, `DSA`, `HTML`, `CSS`, `Git & GitHub`
+- 🧠 Learning: `Data Analytics`, `SQL`, `AWS`, `Cybersecurity`, `CapCut`, `Figma`
+- 🎨 Design: Posters, Stickers, Certificates, UI Mockups (Figma & Canva)
+- 🛠 Tools: `VS Code`, `Filmora`, `Capcut`, `Tableau`, `Excel`, `Google Workspace`
 
 ---
 
-🚀 **Things I’ve Done**
+### 🔥 Work & Experience
 
-- 🥇 Selected as **Winner of Career Catalyst Drill** (Unstop) — Top 10 from 1000+ participants
-- 🧑‍💻 Built my first web project: **Amazon Clone (HTML + CSS)** hosted on Vercel
-- 🎨 Serving as **Graphic Head** for multiple technical clubs (ATM & ACM Chapters)
-- 🎤 Represented clubs in **major events** like MoonHack, AWS Infrabuild, Blockchain Cryptogen & more
-- 🎥 Creating content for a personal YouTube channel **"Tech Thinks"** for school & college students
-- 📸 Running a **cinematic Instagram reel page** to capture stories creatively
-- 🤝 Volunteered & managed university-level tech events, earning certificates & leadership skills
-
----
-
-📌 **My Current Goals**
-
-- Become a **skilled Data Analyst** with strong visualization & problem-solving skills
-- Master **DSA** and backend technologies to contribute to impactful open-source projects
-- Build a strong **personal brand** through GitHub, LinkedIn, and my content platforms
-- Learn and contribute to real-world **internship opportunities** and collaborate with like-minded peers
+- 🎨 **Graphic Head** – ATM & ACM Student Chapter Clubs  
+- 💼 **Campus Ambassador** – Unstop 2025  
+- 📊 **Summer Analytics 2024** – IIT Guwahati (Project + Hackathon)  
+- 🎥 **Content Creator** – YouTube (📌 *Tech Thinks*) & Cinematic Instagram Reels  
+- 👨‍💻 **Volunteer** – MoonHack, Career Catalyst, AWS Events, Blockchain Cryptogen  
+- 🥇 **Top 10 Winner** – Career Catalyst Drill 2024 (Unstop)
 
 ---
 
-📫 **Let’s Connect**
+### 📌 Quick Highlights
 
-- 🔗 GitHub: [github.com/hemant2871](https://github.com/hemant2871)
-- 🔗 LinkedIn: [linkedin.com/in/hemant-sharma-2871](https://www.linkedin.com/in/hemant-sharma-2871/)
-- 📧 Email: hemantsharma2871@gmail.com
+- 🚀 Created Amazon Frontend Clone (HTML+CSS) – My first web project  
+- 🧠 Participated in multiple tech events & hackathons across India  
+- ✨ Designed event graphics, certificates, and branding materials  
+- 🧑‍🏫 Passionate about teaching – Building an educational content channel
 
 ---
 
-⭐ **“Design with passion, code with logic, and grow with curiosity.”**
+### 🎯 Goals
+
+- 🔍 Explore Data Analytics & Backend Development  
+- 📈 Improve problem-solving and DSA proficiency  
+- 🌍 Contribute to Open Source & Internships  
+- 🛠 Launch personal projects that help students & communities  
+
+---
+
+### 🤝 Let’s Connect
+
+- 🔗 [GitHub](https://github.com/hemant2871)
+- 🔗 [LinkedIn](http://www.linkedin.com/in/hemant-sharma-3135b4290)
+- ✉️ Email: `hemantsharma2871@gmail.com`
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile! 🌟 <br/>
-  Let's build, learn, and grow together! 💻🚀
+  🌟 “Code smart, design sharp, stay curious.” 🌟  
+  <br/>Thanks for stopping by!
 </p>
+
