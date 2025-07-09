@@ -34,11 +34,9 @@ I enjoy solving real-world problems through code and expressing ideas through **
 </p>
 ---
 
-### 📊 Languages I’ve Used So Far
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2871&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
-</p>
+
+
 
 ---
 
@@ -48,7 +46,9 @@ I enjoy solving real-world problems through code and expressing ideas through **
   <img src="https://github-readme-stats.vercel.app/api?username=hemant2871&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant2871&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2871&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
+</p>
 ---
 
 ### 🧠 Work & Experience
