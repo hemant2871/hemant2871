@@ -30,7 +30,7 @@ I enjoy solving real-world problems through code and expressing ideas through **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="60" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />&nbsp;&nbsp;
 </p>
----
+
 
 
 ---
