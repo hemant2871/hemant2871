@@ -83,15 +83,6 @@ I enjoy solving real-world problems through code and expressing ideas through **
 
 ---
 
-### 🎯 Goals
-
-- 🔍 Explore Data Analytics & Backend  
-- 📈 Improve DSA  
-- 🌍 Contribute to Open Source  
-- 🛠 Launch useful student projects  
-
----
-
 ### 🤝 Let’s Connect
 
 - 🔗 [GitHub](https://github.com/hemant2871)
