@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Hemant Sharma</h1>
-<h3 align="center">Developer | Graphic Designer | Tech Enthusiast </h3>
+# Hi there 👋, I'm Hemant Sharma
+<h3 >Developer | Graphic Designer | Tech Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/hemant2871" target="_blank">
