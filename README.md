@@ -82,34 +82,26 @@ I enjoy solving real-world problems through code and expressing ideas through **
   
 
 ---
-
 ### 🤝 Let’s Connect
 
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/hemant2871" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" style="background-color:white; padding:5px; border-radius:10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hemant-sharma-3135b4290/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="background-color:white; padding:5px; border-radius:10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Email -->
-  <a href="mailto:hemantsharma2871@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+
   <!-- Instagram -->
   <a href="https://www.instagram.com/hemantsharma_2871/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" style="background-color:white; padding:5px; border-radius:10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Linktree -->
-  <a href="https://linktr.ee/hemantsharma22" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Linktree_logo.svg" alt="Linktree" width="40" />
-  </a>
+
 </p>
 
 ---
