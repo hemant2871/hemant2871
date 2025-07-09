@@ -16,6 +16,7 @@
 
 I'm **Hemant Sharma**, a B.Tech Computer Science student at **Medicaps University**, with a creative mind, logical thinking, and a passion for blending **design and development**.  
 I enjoy solving real-world problems through code and expressing ideas through **graphic design**.
+---
 
 ---
 ### 🚀 Tech Stack & Tools
@@ -31,10 +32,6 @@ I enjoy solving real-world problems through code and expressing ideas through **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />&nbsp;&nbsp;
 </p>
 ---
-
-
-
-
 
 
 
