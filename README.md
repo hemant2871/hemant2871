@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Hemant Sharma
-<h3 >Developer | Graphic Designer | Tech Enthusiast </h3>
+<h3 >Developer | Graphic Designer | Tech Enthusiast </h3><br/>
 
 <p>
   <a href="https://github.com/hemant2871" target="_blank">
