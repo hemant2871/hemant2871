@@ -18,39 +18,58 @@
 I'm **Hemant Sharma**, a B.Tech Computer Science student at **Medicaps University**, with a creative mind, logical thinking, and a passion for blending **design and development**.  
 I enjoy solving real-world problems through code and expressing ideas through **graphic design**.
 
-- 🎯 Tech Skills: `C`, `Java`, `DSA`, `HTML`, `CSS`, `Git & GitHub`
-- 🧠 Learning: `Data Analytics`, `SQL`, `AWS`, `Cybersecurity`, `CapCut`, `Figma`
-- 🎨 Design: Posters, Stickers, Certificates, UI Mockups (Figma & Canva)
-- 🛠 Tools: `VS Code`, `Filmora`, `Capcut`, `Tableau`, `Excel`, `Google Workspace`
+---
+
+### 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+</p>
 
 ---
 
-### 🔥 Work & Experience
+### 📊 Languages I’ve Used So Far
 
-- 🎨 **Graphic Head** – ATM & ACM Student Chapter Clubs  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2871&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
+</p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemant2871&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant2871&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Work & Experience
+
+- 🎨 **Graphic Head** – ATM & ACM Student Chapters  
 - 💼 **Campus Ambassador** – Unstop 2025  
-- 📊 **Summer Analytics 2024** – IIT Guwahati (Project + Hackathon)  
-- 🎥 **Content Creator** – YouTube (📌 *Tech Thinks*) & Cinematic Instagram Reels  
-- 👨‍💻 **Volunteer** – MoonHack, Career Catalyst, AWS Events, Blockchain Cryptogen  
-- 🥇 **Top 10 Winner** – Career Catalyst Drill 2024 (Unstop)
-
----
-
-### 📌 Quick Highlights
-
-- 🚀 Created Amazon Frontend Clone (HTML+CSS) – My first web project  
-- 🧠 Participated in multiple tech events & hackathons across India  
-- ✨ Designed event graphics, certificates, and branding materials  
-- 🧑‍🏫 Passionate about teaching – Building an educational content channel
+- 📊 **Summer Analytics 2024** – IIT Guwahati  
+- 🎥 **Content Creator** – YouTube (📌 *Tech Thinks*) & Reels  
+- 👨‍💻 **Volunteer** – MoonHack, AWS Events, Blockchain Cryptogen  
+- 🥇 **Top 10 Winner** – Career Catalyst Drill (Unstop)
 
 ---
 
 ### 🎯 Goals
 
-- 🔍 Explore Data Analytics & Backend Development  
-- 📈 Improve problem-solving and DSA proficiency  
-- 🌍 Contribute to Open Source & Internships  
-- 🛠 Launch personal projects that help students & communities  
+- 🔍 Explore Data Analytics & Backend  
+- 📈 Improve DSA  
+- 🌍 Contribute to Open Source  
+- 🛠 Launch useful student projects  
 
 ---
 
@@ -66,4 +85,3 @@ I enjoy solving real-world problems through code and expressing ideas through **
   🌟 “Code smart, design sharp, stay curious.” 🌟  
   <br/>Thanks for stopping by!
 </p>
-
