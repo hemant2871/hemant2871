@@ -48,7 +48,8 @@ I enjoy solving real-world problems through code and expressing ideas through **
 
 ### 🧠 Work & Experience
 
-- 🎨 **Graphic Head** –  ACM Student Chapter Techno Clubs  
+- 🎨 **Graphic Head** –
+   ACM Student Chapter Techno Clubs  
 - 💼 **Campus Ambassador** – Unstop 2025  
 - 🧾 **Virtual Experience** – Completed Data Analytics & Visualization tasks at:  
   • **Deloitte** – Data-driven consulting analysis  
