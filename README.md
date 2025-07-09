@@ -62,10 +62,10 @@ I enjoy solving real-world problems through code and expressing ideas through **
 - 👨‍💻 **Volunteer** – MoonHack, AWS Events, BAD Talks  
 - 🥇 **Top 10 Winner** – Career Catalyst Drill (Unstop)
 
-- 
+
 ### 🛠 Tools I Use
 
-<p align="center">
+<p >
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
   &nbsp;&nbsp;
